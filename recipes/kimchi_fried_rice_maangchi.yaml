@@ -1,0 +1,25 @@
+name: "Kimchi Fried Rice by Maangchi"
+servings: 4
+note: "Not filling by itself, needs a protein like dubu jorim."
+ingredients:
+- name: "rice"
+  quantity: 2
+  unit: cup
+- name: "kimchi"
+  quantity: 1
+  unit: cup
+- name: "gochujang"
+  quantity: 3
+  unit: tbsp
+- name: "sesame oil"
+  quantity: 3
+  unit: tsp
+- name: "green onion"
+  quantity: 1 
+  unit: whole
+- name: "sesame seeds"
+  quantity: 1
+  unit: tbsp
+- name: "seaweed paper"
+  quantity: 1
+  unit: sheet

@@ -1,0 +1,34 @@
+name: "Spicy braised tofu (dubu-jorim)"
+servings: 4
+note: "Recommended to serve with Kimchi fried rice."
+ingredients:
+- name: "tofu"
+  quantity: 18
+  unit: oz
+- name: "oil"
+  quantity: 3
+  unit: tbsp
+- name: "sesame oil"
+  quantity: 1
+  unit: tsp
+- name: "green onion"
+  quantity: 2 
+  unit: whole
+- name: "sesame seeds"
+  quantity: 1
+  unit: tsp
+- name: "garlic"
+  quantity: 1
+  unit: clove
+- name: "gochugaru"
+  quantity: 1
+  unit: tbsp
+- name: "soy sauce"
+  quantity: 1 
+  unit: tbsp
+- name: "kosher salt"
+  quantity: 1
+  unit: tsp
+- name: "sugar"
+  quantity: 1
+  unit: tsp

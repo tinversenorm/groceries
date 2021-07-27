@@ -1,0 +1,31 @@
+name: "Broccoli Rabe Pasta"
+servings: 4
+ingredients:
+- name: "lemon"
+  quantity: 2
+  unit: whole
+- name: "cashews"
+  quantity: 0.5
+  unit: cup
+- name: "nutritional yeast"
+  quantity: 0.25
+  unit: cup
+- name: "garlic"
+  quantity: 3
+  unit: clove
+- name: "black pepper"
+  type: seasoning
+- name: "kosher salt"
+  type: seasoning
+- name: "red bell pepper"
+  quantity: 2
+  unit: whole
+- name: "pasta"
+  quantity: 8
+  unit: oz
+- name: "olive oil"
+  quantity: 1
+  unit: tbsp
+- name: "broccoli rabe"
+  quantity: 1
+  unit: bunch

@@ -1,0 +1,29 @@
+name: "Tuscan Kale Salad"
+servings: 4
+ingredients:
+- name: "lemon"
+  quantity: 1
+  unit: whole
+- name: "farro"
+  quantity: 0.5
+  unit: cup
+- name: "dinosaur kale"
+  quantity: 1
+  unit: bunch
+# Seasoning ingredients don't need quantity.
+- name: "black pepper"
+  type: seasoning
+- name: "olive oil"
+  quantity: 0.25
+  unit: cup
+- name: "garlic"
+  quantity: 2
+  unit: clove
+- name: "kosher salt"
+  type: seasoning
+- name: "nutritional yeast"
+  quantity: 0.333333
+  unit: cup
+- name: "hemp seeds"
+  quantity: 0.333333
+  unit: cup

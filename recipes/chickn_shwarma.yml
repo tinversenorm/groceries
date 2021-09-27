@@ -1,0 +1,39 @@
+name: "Chick'n Shwarma"
+servings: 4
+ingredients:
+- name: "seitan"
+  quantity: 12
+  unit: oz
+- name: "lemon"
+  quantity: 1 
+  unit: whole
+- name: "turmeric"
+  type: seasoning
+- name: "cumin"
+  type: seasoning
+- name: "paprika"
+  type: seasoning
+- name: "garlic powder"
+  type: seasoning
+- name: "coconut sugar"
+  quantity: 1
+  unit: tsp
+- name: "cayanne"
+  type: seasoning
+- name: "cinnamon"
+  type: seasoning
+- name: "flatbread"
+  quantity: 4
+  unit: whole
+- name: "lettuce"
+  quantity: 1
+  unit: head
+- name: "red onion"
+  quantity: 1
+  unit: whole
+- name: "tzatziki"
+  quantity: 1
+  unit: cup
+- name: "feta"
+  quantity: 2
+  unit: oz

@@ -1,0 +1,33 @@
+name: "Tofu katsu"
+servings: 4
+ingredients:
+- name: "egg noodles"
+  quantity: 1
+  unit: pkg
+- name: "tofu"
+  quantity: 2
+  unit: block
+- name: "bok choy"
+  quantity: 1
+  unit: bunch
+- name: "all purpose flour"
+  quantity: .75
+  unit: cup
+- name: "panko bread crumbs"
+  quantity: .5
+  unit: cup
+- name: "soy sauce"
+  quantity: 3
+  unit: tbsp
+- name: "hoisin sauce"
+  quantity: 2
+  unit: tbsp
+- name: "dark soy sauce"
+  quantity: 1
+  unit: tbsp
+- name: "sesame oil"
+  quantity: 1
+  unit: tbsp
+- name: "vegetable oil"
+  quantity: 2
+  unit: cup

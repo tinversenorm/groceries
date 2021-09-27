@@ -1,0 +1,52 @@
+name: "Chole"
+servings: 4
+ingredients:
+- name: "chickpea"
+  quantity: 2
+  unit: cans
+- name: "tea"
+  quantity: 2
+  unit: bags
+- name: "cinnamon stick"
+  type: seasoning
+- name: "cardamom pods"
+  type: seasoning
+- name: "cloves"
+  type: seasoning
+- name: "black cardamom"
+  type: seasoning
+- name: "salt"
+  type: seasoning
+- name: "onion"
+  quantity: 1
+  unit: whole
+- name: "cumin seeds"
+  type: seasoning
+- name: "mustard seeds"
+  type: seasoning
+- name: "ginger garlic paste"
+  type: seasoning
+- name: "turmeric"
+  type: seasoning
+- name: "tomato"
+  quantity: 2
+  unit: whole
+- name: "coriander"
+  type: seasoning
+- name: "cumin"
+  type: seasoning
+- name: "chili powder"
+  type: seasoning
+- name: "salt"
+  type: seasoning
+- name: "amchur"
+  type: seasoning
+- name: "garam masala"
+  type: seasoning
+- name: "methi"
+  type: seasoning
+- name: "anardana"
+  type: seasoning
+- name: "roti"
+  quantity: 12
+  unit: whole

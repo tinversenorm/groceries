@@ -1,0 +1,39 @@
+name: "Thai Red Curry"
+servings: 4
+ingredients:
+- name: "dried shiitake mushrooms"
+  quantity: 8
+  unit: whole
+- name: "bamboo shoots"
+  quantity: 1
+  unit: cup
+- name: "coconut milk"
+  quantity: 2
+  unit: cup
+- name: "red curry paste"
+  quantity: 3
+  unit: tbsp
+- name: "tomato paste"
+  quantity: 1
+  unit: tbsp
+- name: "soy sauce"
+  quantity: 1
+  unit: tbsp
+- name: "golden mountain sauce"
+  quantity: 0.5
+  unit: tbsp
+- name: "palm sugar"
+  quantity: 2
+  unit: tbsp
+- name: "kafir lime leaf"
+  quantity: 7
+  unit: leaf
+- name: "tofu"
+  quantity: 1
+  unit: block
+- name: "thai basil"
+  quantity: 1
+  unit: bunch
+- name: "red bell pepper"
+  quantity: 2
+  unit: whole

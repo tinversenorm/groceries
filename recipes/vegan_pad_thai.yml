@@ -1,0 +1,39 @@
+name: "Pad Thai"
+servings: 4
+ingredients:
+- name: "seitan"
+  quantity: 6
+  unit: oz
+- name: "rice noodles"
+  quantity: 8
+  unit: oz
+- name: "shiitake mushrooms"
+  quantity: 2
+  unit: cup
+- name: "palm sugar"
+  quantity: 6
+  unit: tbsp
+- name: "shallot"
+  quantity: 3
+  unit: whole
+- name: "green onion"
+  quantity: 1
+  unit: bunch
+- name: "bean sprouts"
+  quantity: 2 
+  unit: cups
+- name: "peanuts"
+  quantity: 0.5
+  unit: cups
+- name: "soy sauce"
+  quantity: 2
+  unit: tbsp
+- name: "tao jiew"
+  quantity: 1.5
+  unit: tbsp
+- name: "tamarind"
+  quantity: 6
+  unit: tbsp
+- name: "chili flakes"
+  quantity: 2
+  unit: tsp

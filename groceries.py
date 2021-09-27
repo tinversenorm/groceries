@@ -84,7 +84,7 @@ def pretty_print(groceries):
         amounts = []
         for unit in groceries[ingredient_name]:
             amounts.append(f'{groceries[ingredient_name][unit]} {unit}')
-        items.append(f'* [ ] {ingredient_name}, {", ".join(amounts)}')
+        items.append(f'* [ ] {ingredient_name}: {" + ".join(amounts)}')
     return title + "\n" + "\n".join(items)
 
 

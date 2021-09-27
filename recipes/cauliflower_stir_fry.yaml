@@ -1,0 +1,30 @@
+name: "Cauliflower stir fry"
+link: "https://hot-thai-kitchen.com/cauliflower-curry-stir-fry"
+servings: 4
+ingredients:
+- name: "cauliflower"
+  quantity: 12
+  unit: oz
+- name: "golden mountain sauce"
+  quantity: 1
+  unit: tsp
+- name: "coconut milk"
+  quantity: 0.666
+  unit: cup
+- name: "yellow curry paste"
+  quantity: 2
+  unit: tbsp
+- name: "paprika"
+  quantity: 1
+  unit: tsp
+- name: "palm sugar"
+  quantity: 1.5
+  unit: tbsp
+- name: "onion"
+  quantity: 0.25
+  unit: whole
+- name: "cherry tomato"
+  quantity: 0.5
+  unit: cup
+- name: "cilantro"
+  type: seasoning

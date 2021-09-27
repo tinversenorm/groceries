@@ -29,8 +29,8 @@ ingredients:
   quantity: 7
   unit: leaf
 - name: "tofu"
-  quantity: 1
-  unit: block
+  quantity: 16
+  unit: oz
 - name: "thai basil"
   quantity: 1
   unit: bunch

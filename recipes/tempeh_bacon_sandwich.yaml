@@ -1,0 +1,28 @@
+name: "Bacon tempeh sandwich"
+servings: 4
+ingredients:
+- name: "bread"
+  quantity: 8
+  unit: slices
+- name: "mayo"
+  quantity: 4
+  unit: tbsp
+- name: "romaine lettuce"
+  quantity: 0.5
+  unit: bunch
+- name: "heirloom tomato"
+  quantity: 2
+  unit: whole
+- name: "tamari"
+  type: seasoning
+- name: "apple cider vinegar"
+  type: seasoning
+- name: "maple syrup"
+  type: seasoning
+- name: "smoked paprika"
+  type: seasoning
+- name: "cumin"
+  type: seasoning
+- name: "tempeh"
+  quantity: 16
+  unit: oz

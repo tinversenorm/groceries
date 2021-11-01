@@ -1,0 +1,46 @@
+name: "Bean Burrito"
+servings: 4
+ingredients:
+- name: "white onion"
+  quantity: 1.5
+  unit: whole
+- name: "bay leaves"
+  quantity: 2
+  unit: leaves
+- name: epazote
+  type: seasoning
+- name: garlic
+  quantity: 5
+  unit: cloves
+- name: "dry pinto beans"
+  quantity: 1
+  unit: lb
+- name: "salt"
+  type: seasoning
+- name: "tomato"
+  quantity: 2
+  unit: whole
+- name: cilantro
+  quantity: .5
+  unit: bunch
+- name: lime
+  quantity: 1
+  unit: whole
+- name: avocado
+  quantity: 2
+  unit: whole
+- name: "greek yoghurt"
+  quantity: 1
+  unit: tub
+- name: "monterey jack"
+  quantity: 1
+  unit: block
+- name: "Burrito toritillas"
+  quantity: 4
+  unit: whole
+- name: tomatillos
+  quantity: 1
+  unit: lb
+- name: serano
+  quantity: 3
+  unit: whole

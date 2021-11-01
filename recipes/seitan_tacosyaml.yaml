@@ -1,0 +1,55 @@
+name: "Seitan Tacos"
+servings: 4
+link: "https://www.thecuriouschickpea.com/vegan-seitan-carne-asada-tacos/"
+ingredients:
+- name: "seitan"
+  quantity: 16
+  unit: oz
+- name: "ancho chiles"
+  quantity: 3
+  unit: whole
+- name: "chipotle"
+  quantity: 1
+  unit: whole
+- name: "garlic"
+  quantity: 3
+  unit: cloves
+- name: "cilantro"
+  quantity: .25
+  unit: cup
+- name: "orange"
+  quantity: 1
+  unit: whole
+- name: "lime"
+  quantity: 1
+  unit: whole
+- name: "olive oil"
+  quantity: 2
+  unit: tbsp
+- name: "apple cider vinegar"
+  quantity: 1
+  unit: tbsp
+- name: "soy sauce"
+  quantity: 1
+  unit: tbsp
+- name: "brown sugar"
+  quantity: 2
+  unit: tsp
+- name: cumin
+  type: seasoning
+- name: salt
+  type: seasoning
+- name: pepper
+  type: seasoning
+- name: "corn tortillas"
+  quantity: 12
+  unit: whole
+- name: avocado
+  quantity: 2
+  unit: whole
+- name: "red onion"
+  quantity: 1
+  unit: whole
+- name: tomato
+  quantity: 2
+  unit: whole 

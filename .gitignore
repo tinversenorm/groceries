@@ -4,3 +4,5 @@ lib/
 pyvenv.cfg
 pip-selfcheck.json
 grocery_list*
+.DS_Store
+

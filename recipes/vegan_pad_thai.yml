@@ -4,6 +4,9 @@ ingredients:
 - name: "seitan"
   quantity: 6
   unit: oz
+- name: "tofu"
+  quantity: 6
+  unit: oz
 - name: "rice noodles"
   quantity: 8
   unit: oz

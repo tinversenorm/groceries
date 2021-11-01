@@ -1,0 +1,43 @@
+name: "Dal"
+servings: 4
+ingredients:
+- name: "toor dal"
+  quantity: .75
+  unit: cup
+- name: "mustard seeds"
+  type: seasoning
+- name: "cumin seeds"
+  type: seasoning
+- name: "dry red chili"
+  quantity: 1
+  unit: whole
+- name: "curry leaves"
+  type: seasoning
+- name: "asafoedita"
+  type: seasoning
+- name: "yellow onion"
+  quantity: 1
+  unit: whole
+- name: "ginger garlic paste"
+  type: seasoning
+- name: "green chili"
+  quantity: 1
+  unit: whole
+- name: "turmeric"
+  type: seasoning
+- name: "red chili powder"
+  type: seasoning
+- name: "coriander powder"
+  type: seasoning
+- name: tomato
+  quantity: 1
+  unit: whole
+- name: "salt"
+  type: seasoning
+- name: "garam masala"
+  type: seasoning
+- name: "cilantro"
+  quantity: .25
+  unit: bunch
+- name: "methi leaves"
+  type: seasoning

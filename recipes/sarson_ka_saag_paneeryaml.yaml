@@ -1,0 +1,44 @@
+name: "sarson ka saag paneer"
+servings: 4
+ingredients:
+- name: "serano chiles"
+  quantity: 2
+  unit: whole
+- name: "mustard greens"
+  quantity: 8
+  unit: oz
+- name: "spinach"
+  quantity: 8
+  unit: oz
+- name: "fenugreek greens or collard greens"
+  quantity: 8
+  unit: oz
+- name: "ginger"
+  quantity: 3
+  unit: tbsp
+- name: "salt"
+  type: seasoning
+- name: "butter"
+  quantity: 4
+  unit: tbsp
+- name: "corn flour"
+  quantity: 2
+  unit: tbsp
+- name: "yellow onion"
+  quantity: 1
+  unit: large
+- name: "ginger garlic paste"
+  type: seasoning
+- name: "coriander"
+  type: seasoning
+- name: "cumin"
+  type: seasoning
+- name: "garam masala"
+  type: seasoning
+- name: paneer
+  quantity: 1
+  unit: block
+- name: "rotis"
+  quantity: 12
+  unit: whole
+  

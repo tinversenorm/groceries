@@ -1,0 +1,44 @@
+name: "Mushroom curry"
+servings: 3
+link: "https://hebbarskitchen.com/mushroom-curry-recipe-mushroom-masala/"
+ingredients:
+- name: "coriander seeds"
+  type: seasoning
+- name: "cumin seeds"
+  type: seasoning
+- name: pepper
+  type: seasoning
+- name: "kashmiri red chili"
+  quantit: 4
+  unit: whole
+- name: "cinnamon stick"
+  type: seasoning
+- name: "cumin"
+  type: seasoning
+- name: onion
+  quantity: 1
+  unit: whole
+- name: "tomato"
+  quantity: 3
+  unit: whole
+- name: "turmeric"
+  type: seasoning
+- name: "garam masala"
+  type: seasoning
+- name: "salt"
+  type: seasoning
+- name: mushroom
+  quantity: 0.5
+  unit: lb
+- name: cashew
+  quantity: 0.25
+  unit: cup
+- name: "cilantro"
+  quantity: 0.25
+  unit: cup
+- name: "methi"
+  quantity: 0.5
+  unit: tsp
+- name: quinoa
+  quantity: 2
+  unit: cup

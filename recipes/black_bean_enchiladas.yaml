@@ -1,0 +1,64 @@
+name: "Black Bean Enchiladas"
+servings: 6
+link: "Power Plates pOWER pLATES"
+ingredients:
+- name: "butternut squash"
+  quantity: 1
+  unit: lb
+- name: "olive oil"
+  quantity: 2
+  unit: tbsp
+- name: "ancho chili powder"
+  quantity: 2
+  unit: tsp
+- name: "cumin"
+  quantity: 2
+  unit: tsp
+- name: "smoked paprika"
+  quantity: .5
+  unit: tsp
+- name: "yellow onion"
+  quantity: 1
+  unit: whole
+- name: "garlic"
+  quantity: 3
+  unit: cloves
+- name: "black beans"
+  quantity: 1
+  unit: can
+- name: "dino kale"
+  quantity: 1
+  unit: bunch
+- name: "lime"
+  quantity: 4
+  unit: whole
+- name: "masa"
+  quantity: 2
+  unit: tbsp
+- name: "tomato sauce"
+  quantity: 8
+  unit: oz
+- name: "vegetable broth"
+  quantity: 1
+  unit: cup
+- name: "tomato paste"
+  quantity: 2
+  unit: tbsp
+- name: "onion powder"
+  quantity: .5
+  unit: tsp
+- name: "cayenne"
+  quantity: 1
+  unit: tsp
+- name: "tortilla"
+  quantity: 12
+  unit: whole
+- name: "avocado"
+  quantity: 1
+  unit: whole
+- name: "cilantro"
+  quantity: 1
+  unit: bunch
+- name: monterey jack
+  quantity: 1
+  unit: block

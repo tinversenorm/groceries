@@ -1,0 +1,35 @@
+name: "Chipotle Eggplant with Black Beans"
+servings: 6
+link: "https://www.washingtonpost.com/recipes/spicy-chipotle-eggplant-black-beans/14694/"
+ingredients:
+- name: "chipotle"
+  quantity: 2
+  unit: can
+- name: "molasses"
+  quantity: 2
+  unit: tbsp
+- name: "sherry vinegar"
+  quantity: .25
+  unit: cup
+- name: brown sugar
+  quantity: .25
+  unit: cup
+- name: coconut aminos
+  quantity: .25
+  unit: cup
+- name: "olive oil"
+  quantity: 2
+  unit: tbsp
+- name: "eggplant"
+  quantity: 2
+  unit: lb
+- name: "black beans"
+  quantity: 2
+  unit: can
+- name: "queso fresco"
+  quantity: .5
+  unit: cup
+- name: cilantro
+  type: seasoning
+- name: sour cream
+  type: seasoning

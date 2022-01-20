@@ -1,0 +1,38 @@
+name: "Dal Sita's Recipe"
+servings: 4
+ingredients:
+- name: "toor dal"
+  quantity: 1
+  unit: cup
+- name: "mustard seeds"
+  type: seasoning
+- name: "cumin seeds"
+  type: seasoning
+- name: "urad dal"
+  quantity: 1
+  unit: tsp
+- name: "asafoedita"
+  type: seasoning
+- name: "yellow onion"
+  quantity: .5
+  unit: whole
+- name: "garlic"
+  quantity: 3
+  unit: cloves
+- name: "green chili"
+  quantity: 1
+  unit: whole
+- name: "turmeric"
+  type: seasoning
+- name: "red chili powder"
+  type: seasoning
+- name: tomato
+  quantity: 2
+  unit: whole
+- name: persian cucumbers
+  quantity: 2
+  unit: whole
+- name: "salt"
+  type: seasoning
+- name: "masala powder"
+  type: seasoning

@@ -1,0 +1,33 @@
+name: "Mushroom Stroganoff"
+servings: 6
+link: "Plant Powered Protein"
+ingredients:
+- name: "olive oil"
+  quantity: 2
+  unit: tbsp
+- name: garlic
+  quantity: 3
+  unit: clove
+- name: silken tofu
+  quantity: 12.3
+  unit: oz
+- name: oat milk
+  quantity: .5
+  unit: cup
+- name: onion
+  quantity: 1
+  unit: medium
+- name: portobello mushroom
+  quantity: 2
+  unit: whole
+- name: seitan
+  quantity: 8
+  unit: oz
+- name: sundried tomato
+  quantity: .33
+  unit: cup
+- name: parsley
+  type: seasoning
+- name: ribbon pasta
+  quantity: 16
+  unit: oz

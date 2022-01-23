@@ -1,0 +1,22 @@
+name: "Philly Cheesesteaks"
+servings: 4
+link: "Plant Powered Protein"
+ingredients:
+- name: "olive oil"
+  quantity: 1
+  unit: tbsp
+- name: onion
+  quantity: 1
+  unit: large
+- name: bell pepper
+  quantity: 1
+  unit: medium
+- name: seitan
+  quantity: 8
+  unit: oz
+- name: shredded mozzarella
+  quantity: 1.5
+  unit: cups
+- name: bread
+  quantity: 4
+  unit: hero rolls

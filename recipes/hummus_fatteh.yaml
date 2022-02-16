@@ -1,0 +1,37 @@
+name: "Hummus Fatteh"
+link: https://www.youtube.com/watch?v=ePvbfEJODEk
+servings: 4
+ingredients:
+- name: "tahini"
+  quantity: 5
+  unit: tbsp
+- name: "chickpeas"
+  quantity: 2
+  unit: can
+- name: "yogurt"
+  quantity: 0.75
+  unit: cup
+- name: lavash
+  quantity: 1
+  unit: package
+- name: garlic
+  quantity: 4
+  unit: cloves
+- name: "lemon"
+  quantity: 2
+  unit: whole
+- name: "pine nuts"
+  quantity: 2
+  unit: tbsp
+- name: "olive oil"
+  quantity: 1.5
+  unit: tbsp
+- name: salt
+  quantity: 2
+  unit: tsp
+- name: "aleppo pepper"
+  quantity: 1
+  unit: tsp
+- name: cumin
+  quantity: 1
+  unit: tsp

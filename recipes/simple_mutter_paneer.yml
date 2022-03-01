@@ -1,0 +1,61 @@
+name: "Simple Mutter paneer"
+link: "https://www.indianhealthyrecipes.com/matar-paneer-mutter-masala/"
+servings: 4
+ingredients:
+- name: "green cardamom"
+  quantity: 2
+  unit: whole
+- name: "garlic"
+  quantity: 3
+  unit: clove
+- name: "ginger"
+  quantity: 1
+  unit: inch
+- name: "onion"
+  quantity: 1
+  unit: cup
+- name: "tomato"
+  quantity: 1.5
+  unit: cup
+- name: "cashew"
+  quantity: 12
+  unit: whole
+- name: "yogurt"
+  quantity: 0.25
+  unit: cup
+- name: cinnamon stick
+  quantity: 1
+  unit: inch
+- name: bay leaf
+  quantity: 1
+  unit: whole
+- name: turmeric
+  quantity: 0.25
+  unit: tsp
+- name: Kashmiri red chili powder
+  quantity: 1
+  unit: tsp
+- name: garam masala
+  quantity: 1
+  unit: tsp
+- name: coriander powder
+  quantity: 0.5
+  unit: tsp
+- name: sugar
+  quantity: 1
+  unit: tsp
+- name: green peas
+  quantity: 1
+  unit: cup
+- name: green chili
+  quantity: 1
+  unit: whole
+- name: paneer
+  quantity: 250
+  unit: gram
+- name: methi
+  quantity: 1
+  unit: tsp
+- name: cilantro
+  quantity: 2
+  unit: tbsp

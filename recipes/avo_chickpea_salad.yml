@@ -1,0 +1,25 @@
+name: "Avocado Chickpea salad"
+link: "https://www.twopeasandtheirpod.com/chickpea-avocado-feta-salad/"
+servings: 4
+ingredients:
+- name: "chickpeas"
+  quantity: 15
+  unit: oz
+- name: "avocado"
+  quantity: 2
+  unit: whole
+- name: "cilantro"
+  quantity: 0.3333
+  unit: cup
+- name: "green onion"
+  quantity: 2
+  unit: tbsp
+- name: "feta"
+  quantity: 0.3333
+  unit: cup
+- name: "persian cucumber"
+  quantity: 1
+  unit: whole
+- name: "lime"
+  quantity: 1
+  unit: whole
